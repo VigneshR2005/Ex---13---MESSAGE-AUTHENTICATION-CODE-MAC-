@@ -1,8 +1,8 @@
 # Ex - 13 - MESSAGE AUTHENTICATION CODE(MAC)
 
 ```
-Name: Oswald Shilo
-Register No : 212223040139
+Name: R VIGNESH
+Register No : 212222230172
 ```
 
 ## Aim:
@@ -36,7 +36,6 @@ To implement a Message Authentication Code (MAC) using a cryptographic hash func
 ##  PROGRAM:
 
 ```
-exp 13
 #include <stdio.h>
 #include <string.h>
 
@@ -95,6 +94,7 @@ int main() {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-11-11 090437](https://github.com/user-attachments/assets/1a695062-6d1f-47b2-8b52-6425d535ca13)
 
 
 ## RESULT:
